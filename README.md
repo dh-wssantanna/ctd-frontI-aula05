@@ -70,3 +70,7 @@ Define o nome do site.
 ### `<meta property="og:image" content="www.google.com/imagem.jpg">`
 
 Define a imagem que deverá representar o conteúdo da página.
+
+
+### Ferramentas
+- [Extensão Lighthouse](https://chrome.google.com/webstore/detail/lighthouse/blipmdconlkpinefehnmjammfjpmpbjk?hl=pt-BR) - Analisa o código fonte e avaliar performance, acessibilidade, boas práticas e SEO.
