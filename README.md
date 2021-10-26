@@ -75,3 +75,4 @@ Define a imagem que deverá representar o conteúdo da página.
 ### Ferramentas
 - [Extensão Lighthouse](https://chrome.google.com/webstore/detail/lighthouse/blipmdconlkpinefehnmjammfjpmpbjk?hl=pt-BR) - Analisa o código fonte e avaliar performance, acessibilidade, boas práticas e SEO.
 - [Documentação do Opengraph](https://ogp.me/) - Documentação do The Open Graph protocol.
+- [Gerador de favicon](https://www.favicon-generator.org/) - Um gerador de favicon. 
